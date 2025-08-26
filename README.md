@@ -109,7 +109,6 @@ python.py
 5. The result will display the **recommended crop** along with its **image**.  
 
 
-
 ## 📁 File Structure  
 
 Crop_Recommendation/
